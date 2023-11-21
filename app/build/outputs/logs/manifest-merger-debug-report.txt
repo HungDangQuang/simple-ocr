@@ -1,0 +1,272 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/hungdang/Downloads/examples/lite/examples/optical_character_recognition/android/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/hungdang/Downloads/examples/lite/examples/optical_character_recognition/android/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/hungdang/Downloads/examples/lite/examples/optical_character_recognition/android/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/hungdang/Downloads/examples/lite/examples/optical_character_recognition/android/app/src/main/AndroidManifest.xml:2:1-26:12
+MERGED from [androidx.databinding:viewbinding:7.4.2] /Users/hungdang/.gradle/caches/transforms-3/cbddb369be82b65ff18473fe3a69c332/transformed/jetified-viewbinding-7.4.2/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.material:material:1.1.0] /Users/hungdang/.gradle/caches/transforms-3/d279862e3035d676d3123400cbd2177e/transformed/material-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/hungdang/.gradle/caches/transforms-3/227fbd77bb1c7df8b85f99302fcd12a7/transformed/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/hungdang/.gradle/caches/transforms-3/f886c61a0e6f1e3d5cc542c87883416e/transformed/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/hungdang/.gradle/caches/transforms-3/c4596c962652c15109b35c6611545ac6/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/hungdang/.gradle/caches/transforms-3/0c17f6821e95908222820344388f1d1a/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/hungdang/.gradle/caches/transforms-3/bd333b58a17514824479ab55c0c093db/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/hungdang/.gradle/caches/transforms-3/fd4f4a07cddc10159ad3fa4d96b6c112/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/hungdang/.gradle/caches/transforms-3/7650fbc7121df160e9f696ecb4543b9b/transformed/jetified-glide-4.11.0/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/hungdang/.gradle/caches/transforms-3/2276395c281eb07b990c2062ef90a92c/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.0] /Users/hungdang/.gradle/caches/transforms-3/1f800cdf691cfe8231c8f9cdcb8d445e/transformed/fragment-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/hungdang/.gradle/caches/transforms-3/7a5b6ac33a1ae3fe36abed51638e52ed/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/hungdang/.gradle/caches/transforms-3/fa26e0f27a831bbb9a3d5ce9b8c55fcb/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] /Users/hungdang/.gradle/caches/transforms-3/40506a5e3328adccb3cbb2962aacd2b8/transformed/jetified-activity-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0] /Users/hungdang/.gradle/caches/transforms-3/a8af00a7025f01a138ac4351c47bfab5/transformed/jetified-lifecycle-viewmodel-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/hungdang/.gradle/caches/transforms-3/8ebfd8b2673a7aea1f78b1a6265b83ba/transformed/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/hungdang/.gradle/caches/transforms-3/f687bc551cf122c96718d66ed96f3680/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.quickbirdstudios:opencv:4.5.3.0] /Users/hungdang/.gradle/caches/transforms-3/7fbe0610b9012a92c5be117d2edeaf2b/transformed/jetified-opencv-4.5.3.0/AndroidManifest.xml:2:1-9:12
+MERGED from [org.tensorflow:tensorflow-lite-support:0.3.1] /Users/hungdang/.gradle/caches/transforms-3/1c18bb9e44df9287eb4a64de3994140e/transformed/jetified-tensorflow-lite-support-0.3.1/AndroidManifest.xml:2:1-5:12
+MERGED from [org.tensorflow:tensorflow-lite:2.7.0] /Users/hungdang/.gradle/caches/transforms-3/9ddc9e2389ee166968c9f0c7b1327933/transformed/jetified-tensorflow-lite-2.7.0/AndroidManifest.xml:2:1-12:12
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.4.0] /Users/hungdang/.gradle/caches/transforms-3/0e6e93eabf96bc8cec38d0f5cff3f84c/transformed/jetified-tensorflow-lite-gpu-2.4.0/AndroidManifest.xml:2:1-12:12
+MERGED from [org.tensorflow:tensorflow-lite-select-tf-ops:2.4.0] /Users/hungdang/.gradle/caches/transforms-3/ede9d514a5191977e8967a465a6d5179/transformed/jetified-tensorflow-lite-select-tf-ops-2.4.0/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/hungdang/.gradle/caches/transforms-3/5d7615207f34e4dbab932687a61e1874/transformed/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/hungdang/.gradle/caches/transforms-3/64da10992039d767832677ced8c2ed6c/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/hungdang/.gradle/caches/transforms-3/6ed3d3e79ebcdaf5e6c29ba68467a04b/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/hungdang/.gradle/caches/transforms-3/df3c7c2e2d5a20e435c0b5cb267e4fc4/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/hungdang/.gradle/caches/transforms-3/265efb2c89c8d1b79fe2c2bb0d02d958/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/hungdang/.gradle/caches/transforms-3/82fb3077e93189523a92f1f4c2330588/transformed/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/hungdang/.gradle/caches/transforms-3/194ff01932836d52046e511278b8468a/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/hungdang/.gradle/caches/transforms-3/3ccbbf0bd33647c091633deff404d13d/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/hungdang/.gradle/caches/transforms-3/1ea44332c18e3e3e5733d6e8dd1fac76/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/hungdang/.gradle/caches/transforms-3/9621653685fec059261d58fea227ba1a/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/hungdang/.gradle/caches/transforms-3/b38104e16e73ec5fe53948281e8f01ec/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /Users/hungdang/.gradle/caches/transforms-3/82f828c6665afc0a8a906ac660556b78/transformed/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/hungdang/.gradle/caches/transforms-3/c7337f016422e301d7818bbd97ec62b2/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/hungdang/.gradle/caches/transforms-3/4442e6ad1d638da28f1405a6b98ae961/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:17:1-32:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/hungdang/.gradle/caches/transforms-3/7f6aec05cc9e51ce52c653da7324b03f/transformed/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/hungdang/.gradle/caches/transforms-3/73abc3d7fcbe0c80ab037900d4f8355e/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/hungdang/.gradle/caches/transforms-3/020bfffaa0dde8cdeaaf4327f9c220aa/transformed/lifecycle-livedata-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/hungdang/.gradle/caches/transforms-3/0eb89a44dfd17d47caba7fe1a1119287/transformed/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/hungdang/.gradle/caches/transforms-3/ac923aff1ac6a7e3a4dcb3ee00f54d0c/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/hungdang/.gradle/caches/transforms-3/23fbcc4b05c853d0d2c783c431917ef4/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/hungdang/.gradle/caches/transforms-3/26ba1ee96db5e07612ae974a54736e45/transformed/jetified-gifdecoder-4.11.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/hungdang/.gradle/caches/transforms-3/d3c1e6f51a8d0136a8ae73293de073f8/transformed/exifinterface-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/hungdang/.gradle/caches/transforms-3/8806db809b1708630a6139df4e9e9e41/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/hungdang/.gradle/caches/transforms-3/04b1288d0cad77929f8d4e1d41ecd162/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/hungdang/.gradle/caches/transforms-3/c90bd6cea9183ae11a8689f437992cdf/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/hungdang/.gradle/caches/transforms-3/3d83be0205542e7f72fbb7ce5db41d5c/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/hungdang/.gradle/caches/transforms-3/aa419ad8145fd14907bd010202b9f695/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/hungdang/.gradle/caches/transforms-3/4ebd1fb3b95409cdd9eb90af52dceefe/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [org.tensorflow:tensorflow-lite-support-api:0.3.1] /Users/hungdang/.gradle/caches/transforms-3/8ab8efb4d91a4c0ec880a02c1abe1fa8/transformed/jetified-tensorflow-lite-support-api-0.3.1/AndroidManifest.xml:2:1-5:12
+MERGED from [org.tensorflow:tensorflow-lite-api:2.7.0] /Users/hungdang/.gradle/caches/transforms-3/51f2ccea6ecf173380e44b9543d99c81/transformed/jetified-tensorflow-lite-api-2.7.0/AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/hungdang/.gradle/caches/transforms-3/3d04b900333104d1ee36510caab68a13/transformed/jetified-image-1.0.0-beta1/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/hungdang/Downloads/examples/lite/examples/optical_character_recognition/android/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/hungdang/Downloads/examples/lite/examples/optical_character_recognition/android/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/hungdang/Downloads/examples/lite/examples/optical_character_recognition/android/app/src/main/AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from /Users/hungdang/Downloads/examples/lite/examples/optical_character_recognition/android/app/src/main/AndroidManifest.xml:4:11-53
+		INJECTED from /Users/hungdang/Downloads/examples/lite/examples/optical_character_recognition/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hungdang/Downloads/examples/lite/examples/optical_character_recognition/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/hungdang/Downloads/examples/lite/examples/optical_character_recognition/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hungdang/Downloads/examples/lite/examples/optical_character_recognition/android/app/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /Users/hungdang/Downloads/examples/lite/examples/optical_character_recognition/android/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/hungdang/Downloads/examples/lite/examples/optical_character_recognition/android/app/src/main/AndroidManifest.xml:3:11-57
+	android:versionCode
+		INJECTED from /Users/hungdang/Downloads/examples/lite/examples/optical_character_recognition/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hungdang/Downloads/examples/lite/examples/optical_character_recognition/android/app/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /Users/hungdang/Downloads/examples/lite/examples/optical_character_recognition/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/hungdang/Downloads/examples/lite/examples/optical_character_recognition/android/app/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /Users/hungdang/Downloads/examples/lite/examples/optical_character_recognition/android/app/src/main/AndroidManifest.xml:6:3-15
+INJECTED from /Users/hungdang/Downloads/examples/lite/examples/optical_character_recognition/android/app/src/main/AndroidManifest.xml:6:3-15
+INJECTED from /Users/hungdang/Downloads/examples/lite/examples/optical_character_recognition/android/app/src/main/AndroidManifest.xml:6:3-15
+MERGED from [androidx.databinding:viewbinding:7.4.2] /Users/hungdang/.gradle/caches/transforms-3/cbddb369be82b65ff18473fe3a69c332/transformed/jetified-viewbinding-7.4.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:7.4.2] /Users/hungdang/.gradle/caches/transforms-3/cbddb369be82b65ff18473fe3a69c332/transformed/jetified-viewbinding-7.4.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.1.0] /Users/hungdang/.gradle/caches/transforms-3/d279862e3035d676d3123400cbd2177e/transformed/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /Users/hungdang/.gradle/caches/transforms-3/d279862e3035d676d3123400cbd2177e/transformed/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/hungdang/.gradle/caches/transforms-3/227fbd77bb1c7df8b85f99302fcd12a7/transformed/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/hungdang/.gradle/caches/transforms-3/227fbd77bb1c7df8b85f99302fcd12a7/transformed/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/hungdang/.gradle/caches/transforms-3/f886c61a0e6f1e3d5cc542c87883416e/transformed/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/hungdang/.gradle/caches/transforms-3/f886c61a0e6f1e3d5cc542c87883416e/transformed/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/hungdang/.gradle/caches/transforms-3/c4596c962652c15109b35c6611545ac6/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/hungdang/.gradle/caches/transforms-3/c4596c962652c15109b35c6611545ac6/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/hungdang/.gradle/caches/transforms-3/0c17f6821e95908222820344388f1d1a/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/hungdang/.gradle/caches/transforms-3/0c17f6821e95908222820344388f1d1a/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/hungdang/.gradle/caches/transforms-3/bd333b58a17514824479ab55c0c093db/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/hungdang/.gradle/caches/transforms-3/bd333b58a17514824479ab55c0c093db/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/hungdang/.gradle/caches/transforms-3/fd4f4a07cddc10159ad3fa4d96b6c112/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/hungdang/.gradle/caches/transforms-3/fd4f4a07cddc10159ad3fa4d96b6c112/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/hungdang/.gradle/caches/transforms-3/7650fbc7121df160e9f696ecb4543b9b/transformed/jetified-glide-4.11.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/hungdang/.gradle/caches/transforms-3/7650fbc7121df160e9f696ecb4543b9b/transformed/jetified-glide-4.11.0/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/hungdang/.gradle/caches/transforms-3/2276395c281eb07b990c2062ef90a92c/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/hungdang/.gradle/caches/transforms-3/2276395c281eb07b990c2062ef90a92c/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.0] /Users/hungdang/.gradle/caches/transforms-3/1f800cdf691cfe8231c8f9cdcb8d445e/transformed/fragment-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.0] /Users/hungdang/.gradle/caches/transforms-3/1f800cdf691cfe8231c8f9cdcb8d445e/transformed/fragment-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/hungdang/.gradle/caches/transforms-3/7a5b6ac33a1ae3fe36abed51638e52ed/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/hungdang/.gradle/caches/transforms-3/7a5b6ac33a1ae3fe36abed51638e52ed/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/hungdang/.gradle/caches/transforms-3/fa26e0f27a831bbb9a3d5ce9b8c55fcb/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/hungdang/.gradle/caches/transforms-3/fa26e0f27a831bbb9a3d5ce9b8c55fcb/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] /Users/hungdang/.gradle/caches/transforms-3/40506a5e3328adccb3cbb2962aacd2b8/transformed/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /Users/hungdang/.gradle/caches/transforms-3/40506a5e3328adccb3cbb2962aacd2b8/transformed/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0] /Users/hungdang/.gradle/caches/transforms-3/a8af00a7025f01a138ac4351c47bfab5/transformed/jetified-lifecycle-viewmodel-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0] /Users/hungdang/.gradle/caches/transforms-3/a8af00a7025f01a138ac4351c47bfab5/transformed/jetified-lifecycle-viewmodel-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/hungdang/.gradle/caches/transforms-3/8ebfd8b2673a7aea1f78b1a6265b83ba/transformed/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/hungdang/.gradle/caches/transforms-3/8ebfd8b2673a7aea1f78b1a6265b83ba/transformed/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/hungdang/.gradle/caches/transforms-3/f687bc551cf122c96718d66ed96f3680/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/hungdang/.gradle/caches/transforms-3/f687bc551cf122c96718d66ed96f3680/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.quickbirdstudios:opencv:4.5.3.0] /Users/hungdang/.gradle/caches/transforms-3/7fbe0610b9012a92c5be117d2edeaf2b/transformed/jetified-opencv-4.5.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.quickbirdstudios:opencv:4.5.3.0] /Users/hungdang/.gradle/caches/transforms-3/7fbe0610b9012a92c5be117d2edeaf2b/transformed/jetified-opencv-4.5.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [org.tensorflow:tensorflow-lite-support:0.3.1] /Users/hungdang/.gradle/caches/transforms-3/1c18bb9e44df9287eb4a64de3994140e/transformed/jetified-tensorflow-lite-support-0.3.1/AndroidManifest.xml:4:3-71
+MERGED from [org.tensorflow:tensorflow-lite-support:0.3.1] /Users/hungdang/.gradle/caches/transforms-3/1c18bb9e44df9287eb4a64de3994140e/transformed/jetified-tensorflow-lite-support-0.3.1/AndroidManifest.xml:4:3-71
+MERGED from [org.tensorflow:tensorflow-lite:2.7.0] /Users/hungdang/.gradle/caches/transforms-3/9ddc9e2389ee166968c9f0c7b1327933/transformed/jetified-tensorflow-lite-2.7.0/AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite:2.7.0] /Users/hungdang/.gradle/caches/transforms-3/9ddc9e2389ee166968c9f0c7b1327933/transformed/jetified-tensorflow-lite-2.7.0/AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.4.0] /Users/hungdang/.gradle/caches/transforms-3/0e6e93eabf96bc8cec38d0f5cff3f84c/transformed/jetified-tensorflow-lite-gpu-2.4.0/AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.4.0] /Users/hungdang/.gradle/caches/transforms-3/0e6e93eabf96bc8cec38d0f5cff3f84c/transformed/jetified-tensorflow-lite-gpu-2.4.0/AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite-select-tf-ops:2.4.0] /Users/hungdang/.gradle/caches/transforms-3/ede9d514a5191977e8967a465a6d5179/transformed/jetified-tensorflow-lite-select-tf-ops-2.4.0/AndroidManifest.xml:8:5-47
+MERGED from [org.tensorflow:tensorflow-lite-select-tf-ops:2.4.0] /Users/hungdang/.gradle/caches/transforms-3/ede9d514a5191977e8967a465a6d5179/transformed/jetified-tensorflow-lite-select-tf-ops-2.4.0/AndroidManifest.xml:8:5-47
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/hungdang/.gradle/caches/transforms-3/5d7615207f34e4dbab932687a61e1874/transformed/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/hungdang/.gradle/caches/transforms-3/5d7615207f34e4dbab932687a61e1874/transformed/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/hungdang/.gradle/caches/transforms-3/64da10992039d767832677ced8c2ed6c/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/hungdang/.gradle/caches/transforms-3/64da10992039d767832677ced8c2ed6c/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/hungdang/.gradle/caches/transforms-3/6ed3d3e79ebcdaf5e6c29ba68467a04b/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/hungdang/.gradle/caches/transforms-3/6ed3d3e79ebcdaf5e6c29ba68467a04b/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/hungdang/.gradle/caches/transforms-3/df3c7c2e2d5a20e435c0b5cb267e4fc4/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/hungdang/.gradle/caches/transforms-3/df3c7c2e2d5a20e435c0b5cb267e4fc4/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/hungdang/.gradle/caches/transforms-3/265efb2c89c8d1b79fe2c2bb0d02d958/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/hungdang/.gradle/caches/transforms-3/265efb2c89c8d1b79fe2c2bb0d02d958/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/hungdang/.gradle/caches/transforms-3/82fb3077e93189523a92f1f4c2330588/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/hungdang/.gradle/caches/transforms-3/82fb3077e93189523a92f1f4c2330588/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/hungdang/.gradle/caches/transforms-3/194ff01932836d52046e511278b8468a/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/hungdang/.gradle/caches/transforms-3/194ff01932836d52046e511278b8468a/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/hungdang/.gradle/caches/transforms-3/3ccbbf0bd33647c091633deff404d13d/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/hungdang/.gradle/caches/transforms-3/3ccbbf0bd33647c091633deff404d13d/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/hungdang/.gradle/caches/transforms-3/1ea44332c18e3e3e5733d6e8dd1fac76/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/hungdang/.gradle/caches/transforms-3/1ea44332c18e3e3e5733d6e8dd1fac76/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/hungdang/.gradle/caches/transforms-3/9621653685fec059261d58fea227ba1a/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/hungdang/.gradle/caches/transforms-3/9621653685fec059261d58fea227ba1a/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/hungdang/.gradle/caches/transforms-3/b38104e16e73ec5fe53948281e8f01ec/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/hungdang/.gradle/caches/transforms-3/b38104e16e73ec5fe53948281e8f01ec/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /Users/hungdang/.gradle/caches/transforms-3/82f828c6665afc0a8a906ac660556b78/transformed/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/hungdang/.gradle/caches/transforms-3/82f828c6665afc0a8a906ac660556b78/transformed/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/hungdang/.gradle/caches/transforms-3/c7337f016422e301d7818bbd97ec62b2/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/hungdang/.gradle/caches/transforms-3/c7337f016422e301d7818bbd97ec62b2/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/hungdang/.gradle/caches/transforms-3/4442e6ad1d638da28f1405a6b98ae961/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/hungdang/.gradle/caches/transforms-3/4442e6ad1d638da28f1405a6b98ae961/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/hungdang/.gradle/caches/transforms-3/7f6aec05cc9e51ce52c653da7324b03f/transformed/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/hungdang/.gradle/caches/transforms-3/7f6aec05cc9e51ce52c653da7324b03f/transformed/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/hungdang/.gradle/caches/transforms-3/73abc3d7fcbe0c80ab037900d4f8355e/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/hungdang/.gradle/caches/transforms-3/73abc3d7fcbe0c80ab037900d4f8355e/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/hungdang/.gradle/caches/transforms-3/020bfffaa0dde8cdeaaf4327f9c220aa/transformed/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/hungdang/.gradle/caches/transforms-3/020bfffaa0dde8cdeaaf4327f9c220aa/transformed/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/hungdang/.gradle/caches/transforms-3/0eb89a44dfd17d47caba7fe1a1119287/transformed/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/hungdang/.gradle/caches/transforms-3/0eb89a44dfd17d47caba7fe1a1119287/transformed/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/hungdang/.gradle/caches/transforms-3/ac923aff1ac6a7e3a4dcb3ee00f54d0c/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/hungdang/.gradle/caches/transforms-3/ac923aff1ac6a7e3a4dcb3ee00f54d0c/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/hungdang/.gradle/caches/transforms-3/23fbcc4b05c853d0d2c783c431917ef4/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/hungdang/.gradle/caches/transforms-3/23fbcc4b05c853d0d2c783c431917ef4/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/hungdang/.gradle/caches/transforms-3/26ba1ee96db5e07612ae974a54736e45/transformed/jetified-gifdecoder-4.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/hungdang/.gradle/caches/transforms-3/26ba1ee96db5e07612ae974a54736e45/transformed/jetified-gifdecoder-4.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/hungdang/.gradle/caches/transforms-3/d3c1e6f51a8d0136a8ae73293de073f8/transformed/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/hungdang/.gradle/caches/transforms-3/d3c1e6f51a8d0136a8ae73293de073f8/transformed/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/hungdang/.gradle/caches/transforms-3/8806db809b1708630a6139df4e9e9e41/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/hungdang/.gradle/caches/transforms-3/8806db809b1708630a6139df4e9e9e41/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/hungdang/.gradle/caches/transforms-3/04b1288d0cad77929f8d4e1d41ecd162/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/hungdang/.gradle/caches/transforms-3/04b1288d0cad77929f8d4e1d41ecd162/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/hungdang/.gradle/caches/transforms-3/c90bd6cea9183ae11a8689f437992cdf/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/hungdang/.gradle/caches/transforms-3/c90bd6cea9183ae11a8689f437992cdf/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/hungdang/.gradle/caches/transforms-3/3d83be0205542e7f72fbb7ce5db41d5c/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/hungdang/.gradle/caches/transforms-3/3d83be0205542e7f72fbb7ce5db41d5c/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/hungdang/.gradle/caches/transforms-3/aa419ad8145fd14907bd010202b9f695/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/hungdang/.gradle/caches/transforms-3/aa419ad8145fd14907bd010202b9f695/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/hungdang/.gradle/caches/transforms-3/4ebd1fb3b95409cdd9eb90af52dceefe/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/hungdang/.gradle/caches/transforms-3/4ebd1fb3b95409cdd9eb90af52dceefe/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [org.tensorflow:tensorflow-lite-support-api:0.3.1] /Users/hungdang/.gradle/caches/transforms-3/8ab8efb4d91a4c0ec880a02c1abe1fa8/transformed/jetified-tensorflow-lite-support-api-0.3.1/AndroidManifest.xml:4:3-71
+MERGED from [org.tensorflow:tensorflow-lite-support-api:0.3.1] /Users/hungdang/.gradle/caches/transforms-3/8ab8efb4d91a4c0ec880a02c1abe1fa8/transformed/jetified-tensorflow-lite-support-api-0.3.1/AndroidManifest.xml:4:3-71
+MERGED from [org.tensorflow:tensorflow-lite-api:2.7.0] /Users/hungdang/.gradle/caches/transforms-3/51f2ccea6ecf173380e44b9543d99c81/transformed/jetified-tensorflow-lite-api-2.7.0/AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite-api:2.7.0] /Users/hungdang/.gradle/caches/transforms-3/51f2ccea6ecf173380e44b9543d99c81/transformed/jetified-tensorflow-lite-api-2.7.0/AndroidManifest.xml:7:5-8:41
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/hungdang/.gradle/caches/transforms-3/3d04b900333104d1ee36510caab68a13/transformed/jetified-image-1.0.0-beta1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/hungdang/.gradle/caches/transforms-3/3d04b900333104d1ee36510caab68a13/transformed/jetified-image-1.0.0-beta1/AndroidManifest.xml:5:5-44
+INJECTED from /Users/hungdang/Downloads/examples/lite/examples/optical_character_recognition/android/app/src/main/AndroidManifest.xml:6:3-15
+INJECTED from /Users/hungdang/Downloads/examples/lite/examples/optical_character_recognition/android/app/src/main/AndroidManifest.xml:6:3-15
+	android:targetSdkVersion
+		INJECTED from /Users/hungdang/Downloads/examples/lite/examples/optical_character_recognition/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hungdang/Downloads/examples/lite/examples/optical_character_recognition/android/app/src/main/AndroidManifest.xml:6:3-15
+		INJECTED from /Users/hungdang/Downloads/examples/lite/examples/optical_character_recognition/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/hungdang/Downloads/examples/lite/examples/optical_character_recognition/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hungdang/Downloads/examples/lite/examples/optical_character_recognition/android/app/src/main/AndroidManifest.xml:6:3-15
+		MERGED from /Users/hungdang/Downloads/examples/lite/examples/optical_character_recognition/android/app/src/main/AndroidManifest.xml:6:3-15
+		MERGED from /Users/hungdang/Downloads/examples/lite/examples/optical_character_recognition/android/app/src/main/AndroidManifest.xml:6:3-15
+		MERGED from /Users/hungdang/Downloads/examples/lite/examples/optical_character_recognition/android/app/src/main/AndroidManifest.xml:6:3-15
+		MERGED from /Users/hungdang/Downloads/examples/lite/examples/optical_character_recognition/android/app/src/main/AndroidManifest.xml:6:3-15
+		INJECTED from /Users/hungdang/Downloads/examples/lite/examples/optical_character_recognition/android/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/hungdang/Downloads/examples/lite/examples/optical_character_recognition/android/app/src/main/AndroidManifest.xml:8:3-24:17
+MERGED from [com.google.android.material:material:1.1.0] /Users/hungdang/.gradle/caches/transforms-3/d279862e3035d676d3123400cbd2177e/transformed/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/hungdang/.gradle/caches/transforms-3/d279862e3035d676d3123400cbd2177e/transformed/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/hungdang/.gradle/caches/transforms-3/f886c61a0e6f1e3d5cc542c87883416e/transformed/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/hungdang/.gradle/caches/transforms-3/f886c61a0e6f1e3d5cc542c87883416e/transformed/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/hungdang/.gradle/caches/transforms-3/fd4f4a07cddc10159ad3fa4d96b6c112/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/hungdang/.gradle/caches/transforms-3/fd4f4a07cddc10159ad3fa4d96b6c112/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/hungdang/.gradle/caches/transforms-3/7650fbc7121df160e9f696ecb4543b9b/transformed/jetified-glide-4.11.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/hungdang/.gradle/caches/transforms-3/7650fbc7121df160e9f696ecb4543b9b/transformed/jetified-glide-4.11.0/AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite:2.7.0] /Users/hungdang/.gradle/caches/transforms-3/9ddc9e2389ee166968c9f0c7b1327933/transformed/jetified-tensorflow-lite-2.7.0/AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite:2.7.0] /Users/hungdang/.gradle/caches/transforms-3/9ddc9e2389ee166968c9f0c7b1327933/transformed/jetified-tensorflow-lite-2.7.0/AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.4.0] /Users/hungdang/.gradle/caches/transforms-3/0e6e93eabf96bc8cec38d0f5cff3f84c/transformed/jetified-tensorflow-lite-gpu-2.4.0/AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.4.0] /Users/hungdang/.gradle/caches/transforms-3/0e6e93eabf96bc8cec38d0f5cff3f84c/transformed/jetified-tensorflow-lite-gpu-2.4.0/AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite-select-tf-ops:2.4.0] /Users/hungdang/.gradle/caches/transforms-3/ede9d514a5191977e8967a465a6d5179/transformed/jetified-tensorflow-lite-select-tf-ops-2.4.0/AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite-select-tf-ops:2.4.0] /Users/hungdang/.gradle/caches/transforms-3/ede9d514a5191977e8967a465a6d5179/transformed/jetified-tensorflow-lite-select-tf-ops-2.4.0/AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.1.0] /Users/hungdang/.gradle/caches/transforms-3/82f828c6665afc0a8a906ac660556b78/transformed/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/hungdang/.gradle/caches/transforms-3/82f828c6665afc0a8a906ac660556b78/transformed/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/hungdang/.gradle/caches/transforms-3/4442e6ad1d638da28f1405a6b98ae961/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/hungdang/.gradle/caches/transforms-3/4442e6ad1d638da28f1405a6b98ae961/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:24:5-30:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/hungdang/.gradle/caches/transforms-3/26ba1ee96db5e07612ae974a54736e45/transformed/jetified-gifdecoder-4.11.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/hungdang/.gradle/caches/transforms-3/26ba1ee96db5e07612ae974a54736e45/transformed/jetified-gifdecoder-4.11.0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/hungdang/.gradle/caches/transforms-3/04b1288d0cad77929f8d4e1d41ecd162/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/hungdang/.gradle/caches/transforms-3/04b1288d0cad77929f8d4e1d41ecd162/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [org.tensorflow:tensorflow-lite-api:2.7.0] /Users/hungdang/.gradle/caches/transforms-3/51f2ccea6ecf173380e44b9543d99c81/transformed/jetified-tensorflow-lite-api-2.7.0/AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite-api:2.7.0] /Users/hungdang/.gradle/caches/transforms-3/51f2ccea6ecf173380e44b9543d99c81/transformed/jetified-tensorflow-lite-api-2.7.0/AndroidManifest.xml:10:5-20
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/hungdang/.gradle/caches/transforms-3/3d04b900333104d1ee36510caab68a13/transformed/jetified-image-1.0.0-beta1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/hungdang/.gradle/caches/transforms-3/3d04b900333104d1ee36510caab68a13/transformed/jetified-image-1.0.0-beta1/AndroidManifest.xml:7:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/hungdang/.gradle/caches/transforms-3/82f828c6665afc0a8a906ac660556b78/transformed/core-1.1.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/hungdang/Downloads/examples/lite/examples/optical_character_recognition/android/app/src/main/AndroidManifest.xml:13:11-37
+	android:label
+		ADDED from /Users/hungdang/Downloads/examples/lite/examples/optical_character_recognition/android/app/src/main/AndroidManifest.xml:11:11-51
+	tools:ignore
+		ADDED from /Users/hungdang/Downloads/examples/lite/examples/optical_character_recognition/android/app/src/main/AndroidManifest.xml:15:11-50
+	android:roundIcon
+		ADDED from /Users/hungdang/Downloads/examples/lite/examples/optical_character_recognition/android/app/src/main/AndroidManifest.xml:12:11-56
+	android:icon
+		ADDED from /Users/hungdang/Downloads/examples/lite/examples/optical_character_recognition/android/app/src/main/AndroidManifest.xml:10:11-45
+	android:allowBackup
+		ADDED from /Users/hungdang/Downloads/examples/lite/examples/optical_character_recognition/android/app/src/main/AndroidManifest.xml:9:11-37
+	android:theme
+		ADDED from /Users/hungdang/Downloads/examples/lite/examples/optical_character_recognition/android/app/src/main/AndroidManifest.xml:14:11-46
+activity#org.tensorflow.lite.examples.ocr.MainActivity
+ADDED from /Users/hungdang/Downloads/examples/lite/examples/optical_character_recognition/android/app/src/main/AndroidManifest.xml:17:5-23:16
+	android:exported
+		ADDED from /Users/hungdang/Downloads/examples/lite/examples/optical_character_recognition/android/app/src/main/AndroidManifest.xml:18:15-38
+	android:name
+		ADDED from /Users/hungdang/Downloads/examples/lite/examples/optical_character_recognition/android/app/src/main/AndroidManifest.xml:17:15-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/hungdang/Downloads/examples/lite/examples/optical_character_recognition/android/app/src/main/AndroidManifest.xml:19:7-22:23
+action#android.intent.action.MAIN
+ADDED from /Users/hungdang/Downloads/examples/lite/examples/optical_character_recognition/android/app/src/main/AndroidManifest.xml:20:9-60
+	android:name
+		ADDED from /Users/hungdang/Downloads/examples/lite/examples/optical_character_recognition/android/app/src/main/AndroidManifest.xml:20:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /Users/hungdang/Downloads/examples/lite/examples/optical_character_recognition/android/app/src/main/AndroidManifest.xml:21:9-68
+	android:name
+		ADDED from /Users/hungdang/Downloads/examples/lite/examples/optical_character_recognition/android/app/src/main/AndroidManifest.xml:21:19-66
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/hungdang/.gradle/caches/transforms-3/4442e6ad1d638da28f1405a6b98ae961/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:25:9-29:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/hungdang/.gradle/caches/transforms-3/4442e6ad1d638da28f1405a6b98ae961/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:27:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/hungdang/.gradle/caches/transforms-3/4442e6ad1d638da28f1405a6b98ae961/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:29:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/hungdang/.gradle/caches/transforms-3/4442e6ad1d638da28f1405a6b98ae961/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/hungdang/.gradle/caches/transforms-3/4442e6ad1d638da28f1405a6b98ae961/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:26:13-79

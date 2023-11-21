@@ -1,0 +1,62 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="org.tensorflow.lite.examples.ocr"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+7-->/Users/hungdang/Downloads/examples/lite/examples/optical_character_recognition/android/app/src/main/AndroidManifest.xml:6:3-15
+8        android:minSdkVersion="21"
+8-->/Users/hungdang/Downloads/examples/lite/examples/optical_character_recognition/android/app/src/main/AndroidManifest.xml:6:3-15
+9        android:targetSdkVersion="33" />
+9-->/Users/hungdang/Downloads/examples/lite/examples/optical_character_recognition/android/app/src/main/AndroidManifest.xml:6:3-15
+10
+11    <application
+11-->/Users/hungdang/Downloads/examples/lite/examples/optical_character_recognition/android/app/src/main/AndroidManifest.xml:8:3-24:17
+12        android:allowBackup="true"
+12-->/Users/hungdang/Downloads/examples/lite/examples/optical_character_recognition/android/app/src/main/AndroidManifest.xml:9:11-37
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.1.0] /Users/hungdang/.gradle/caches/transforms-3/82f828c6665afc0a8a906ac660556b78/transformed/core-1.1.0/AndroidManifest.xml:24:18-86
+14        android:debuggable="true"
+15        android:icon="@mipmap/ic_launcher"
+15-->/Users/hungdang/Downloads/examples/lite/examples/optical_character_recognition/android/app/src/main/AndroidManifest.xml:10:11-45
+16        android:label="@string/tfe_ocr_app_name"
+16-->/Users/hungdang/Downloads/examples/lite/examples/optical_character_recognition/android/app/src/main/AndroidManifest.xml:11:11-51
+17        android:roundIcon="@mipmap/ic_launcher_round"
+17-->/Users/hungdang/Downloads/examples/lite/examples/optical_character_recognition/android/app/src/main/AndroidManifest.xml:12:11-56
+18        android:supportsRtl="true"
+18-->/Users/hungdang/Downloads/examples/lite/examples/optical_character_recognition/android/app/src/main/AndroidManifest.xml:13:11-37
+19        android:testOnly="true"
+20        android:theme="@style/AppTheme.OCR" >
+20-->/Users/hungdang/Downloads/examples/lite/examples/optical_character_recognition/android/app/src/main/AndroidManifest.xml:14:11-46
+21        <activity
+21-->/Users/hungdang/Downloads/examples/lite/examples/optical_character_recognition/android/app/src/main/AndroidManifest.xml:17:5-23:16
+22            android:name="org.tensorflow.lite.examples.ocr.MainActivity"
+22-->/Users/hungdang/Downloads/examples/lite/examples/optical_character_recognition/android/app/src/main/AndroidManifest.xml:17:15-43
+23            android:exported="true" >
+23-->/Users/hungdang/Downloads/examples/lite/examples/optical_character_recognition/android/app/src/main/AndroidManifest.xml:18:15-38
+24            <intent-filter>
+24-->/Users/hungdang/Downloads/examples/lite/examples/optical_character_recognition/android/app/src/main/AndroidManifest.xml:19:7-22:23
+25                <action android:name="android.intent.action.MAIN" />
+25-->/Users/hungdang/Downloads/examples/lite/examples/optical_character_recognition/android/app/src/main/AndroidManifest.xml:20:9-60
+25-->/Users/hungdang/Downloads/examples/lite/examples/optical_character_recognition/android/app/src/main/AndroidManifest.xml:20:17-58
+26
+27                <category android:name="android.intent.category.LAUNCHER" />
+27-->/Users/hungdang/Downloads/examples/lite/examples/optical_character_recognition/android/app/src/main/AndroidManifest.xml:21:9-68
+27-->/Users/hungdang/Downloads/examples/lite/examples/optical_character_recognition/android/app/src/main/AndroidManifest.xml:21:19-66
+28            </intent-filter>
+29        </activity>
+30
+31        <provider
+31-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/hungdang/.gradle/caches/transforms-3/4442e6ad1d638da28f1405a6b98ae961/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:25:9-29:43
+32            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+32-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/hungdang/.gradle/caches/transforms-3/4442e6ad1d638da28f1405a6b98ae961/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:26:13-79
+33            android:authorities="org.tensorflow.lite.examples.ocr.lifecycle-process"
+33-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/hungdang/.gradle/caches/transforms-3/4442e6ad1d638da28f1405a6b98ae961/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:27:13-69
+34            android:exported="false"
+34-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/hungdang/.gradle/caches/transforms-3/4442e6ad1d638da28f1405a6b98ae961/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:28:13-37
+35            android:multiprocess="true" />
+35-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/hungdang/.gradle/caches/transforms-3/4442e6ad1d638da28f1405a6b98ae961/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:29:13-40
+36    </application>
+37
+38</manifest>
