@@ -3,4 +3,7 @@
     <dimen name="tfe_is_preview_size">250dp</dimen>
     <dimen name="tfe_bottom_sheet_corner_radius">15dp</dimen>
     <dimen name="tfe_bottom_sheet_top_padding">8dp</dimen>
+    <dimen name="tfe_button_camera_size">70dp</dimen>
+    <dimen name="tfe_button_camera_corner_radius">35dp</dimen>
+    <dimen name="tfe_progress_bar_size">70dp</dimen>
 </resources>

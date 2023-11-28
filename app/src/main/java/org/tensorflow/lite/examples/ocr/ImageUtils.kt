@@ -16,18 +16,27 @@ limitations under the License.
 
 package org.tensorflow.lite.examples.ocr
 
+import android.content.Context
+import android.content.res.AssetManager
 import android.graphics.Bitmap
 import android.graphics.BitmapFactory
-import android.graphics.ImageFormat.RGB_565
 import android.graphics.Matrix
+import android.os.Environment
+import android.util.Log
+import androidx.camera.core.ImageProxy
 import androidx.exifinterface.media.ExifInterface
-import java.io.File
 import org.tensorflow.lite.DataType
 import org.tensorflow.lite.support.common.ops.NormalizeOp
 import org.tensorflow.lite.support.image.ImageProcessor
 import org.tensorflow.lite.support.image.TensorImage
 import org.tensorflow.lite.support.image.ops.ResizeOp
 import org.tensorflow.lite.support.image.ops.TransformToGrayscaleOp
+import java.io.File
+import java.nio.ByteBuffer
+import java.text.SimpleDateFormat
+import java.util.Date
+import java.util.Locale
+
 
 /** Collection of image reading and manipulation utilities in the form of static functions. */
 abstract class ImageUtils {
@@ -198,15 +207,65 @@ abstract class ImageUtils {
 
     fun createEmptyBitmap(
       imageWidth: Int,
-      imageHeigth: Int,
+      imageHeight: Int,
       color: Int = 0,
       imageConfig: Bitmap.Config = Bitmap.Config.RGB_565
     ): Bitmap {
-      val ret = Bitmap.createBitmap(imageWidth, imageHeigth, imageConfig)
+      val ret = Bitmap.createBitmap(imageWidth, imageHeight, imageConfig)
       if (color != 0) {
         ret.eraseColor(color)
       }
       return ret
     }
+
+    fun getBitmapFromAssetsFile(
+      context: Context,
+      fileName: String
+    ) : Bitmap {
+      var image: Bitmap? = null
+      val assetManager:AssetManager = context.assets
+      try {
+        val inputStream = assetManager.open(fileName)
+        image = BitmapFactory.decodeStream(inputStream)
+        inputStream.close()
+      } catch (e:Exception) {
+        e.printStackTrace()
+      }
+      return image!!
+    }
+
+    fun getOutputFile(): File {
+      // Create a directory if it doesn't exist
+      val directory =
+        File(Environment.getExternalStoragePublicDirectory(Environment.DIRECTORY_PICTURES), "OCR")
+      if (!directory.exists()) {
+        directory.mkdirs()
+      }
+
+      // Create a unique filename
+      val fileName =
+        "IMG_" + SimpleDateFormat("yyyyMMdd_HHmmss", Locale.getDefault()).format(Date()) + ".jpg"
+
+      // Return the file object
+      val file = File(directory, fileName)
+      Log.d("test file name: ", "getOutputFile: " + file.absolutePath)
+      return file
+    }
+
+    fun imageProxyToBitmap(image: ImageProxy): Bitmap? {
+      val planeProxy = image.planes[0]
+      val buffer: ByteBuffer = planeProxy.buffer
+      val bytes = ByteArray(buffer.remaining())
+      buffer.get(bytes)
+      return rotateBitmap(BitmapFactory.decodeByteArray(bytes, 0, bytes.size), 90f)
+
+    }
+
+    fun rotateBitmap(source: Bitmap, angle: Float): Bitmap? {
+      val matrix = Matrix()
+      matrix.postRotate(angle)
+      return Bitmap.createBitmap(source, 0, 0, source.width, source.height, matrix, true)
+    }
+
   }
 }
