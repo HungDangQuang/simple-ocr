@@ -6,4 +6,5 @@
     <dimen name="tfe_button_camera_size">70dp</dimen>
     <dimen name="tfe_button_camera_corner_radius">35dp</dimen>
     <dimen name="tfe_progress_bar_size">70dp</dimen>
+    <dimen name="tft_result_text_size">18dp</dimen>
 </resources>

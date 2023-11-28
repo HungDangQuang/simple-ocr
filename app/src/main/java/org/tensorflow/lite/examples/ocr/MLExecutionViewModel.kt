@@ -48,10 +48,10 @@ class MLExecutionViewModel : ViewModel() {
     inferenceThread: ExecutorCoroutineDispatcher
   ) {
     viewModelScope.launch(inferenceThread) {
-      val inputStream = context.assets.open(fileName)
-      val contentImage = BitmapFactory.decodeStream(inputStream)
+
+      val contentImage = ImageUtils.loadImageFromName(fileName)
       try {
-        val result = ocrModel?.execute(contentImage)
+        val result = ocrModel?.execute(contentImage!!)
         _resultingBitmap.postValue(result)
       } catch (e: Exception) {
         Log.e(TAG, "Fail to execute OCRModelExecutor: ${e.message}")

@@ -5,13 +5,14 @@ import android.graphics.Bitmap
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import android.widget.AdapterView.OnItemClickListener
 import android.widget.ImageView
 import androidx.recyclerview.widget.RecyclerView
 import androidx.recyclerview.widget.RecyclerView.Adapter
 import org.tensorflow.lite.examples.ocr.ImageUtils
 import org.tensorflow.lite.examples.ocr.R
 
-class ImageAdapter(private val context: Context, private val mList: List<String>): Adapter<ImageAdapter.ViewHolder>() {
+class ImageAdapter(private val context: Context, private val mList: List<String>, private val mListener: OnItemClickListener?): Adapter<ImageAdapter.ViewHolder>() {
 
 
     // Holds the views for adding it to image and text
@@ -33,5 +34,6 @@ class ImageAdapter(private val context: Context, private val mList: List<String>
     override fun onBindViewHolder(holder: ViewHolder, position: Int) {
         val image:Bitmap = ImageUtils.getBitmapFromAssetsFile(context, mList[position])
         holder.imageView.setImageBitmap(image)
+
     }
 }

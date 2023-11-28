@@ -267,5 +267,18 @@ abstract class ImageUtils {
       return Bitmap.createBitmap(source, 0, 0, source.width, source.height, matrix, true)
     }
 
+    fun loadImageFromName(fileName: String) : Bitmap? {
+      val directory =
+        File(Environment.getExternalStoragePublicDirectory(Environment.DIRECTORY_PICTURES), "OCR")
+      if (!directory.exists()) {
+        return null
+      }
+      val file = File(directory, fileName)
+      if (file.exists()) {
+        return BitmapFactory.decodeFile(file.absolutePath)
+      }
+      return null
+    }
+
   }
 }

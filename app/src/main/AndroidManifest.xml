@@ -22,7 +22,7 @@
         android:theme="@style/AppTheme.OCR"
         tools:ignore="GoogleAppIndexingWarning">
         <activity
-            android:name=".ResultActivity"
+            android:name=".OCRActivity"
             android:exported="false" />
         <activity
             android:name=".MainActivity"
